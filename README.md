@@ -18,3 +18,6 @@ Possible KPIs include but not limited to:
 
 ## Final Reports
 
+<img width="895" alt="11" src="https://github.com/Suifengyuan78/Call-Centre-Trends-Analysis/assets/167149285/97836332-4be0-4809-b4dd-4a2196eb6f56">
+
+<img width="536" alt="12" src="https://github.com/Suifengyuan78/Call-Centre-Trends-Analysis/assets/167149285/0efb9487-0c2c-4416-9f44-8425c22078d7">

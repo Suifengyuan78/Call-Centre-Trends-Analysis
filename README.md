@@ -1,5 +1,9 @@
 #                                 Call Centre Trends Analysis
 
+#### Company:![image](https://github.com/Suifengyuan78/Call-Centre-Trends-Analysis/assets/167149285/3f109167-380c-474a-9daf-98946a4629db) [Know more about PWC](https://www.pwc.ch/en.html)
+
+
+
 ## Task: Create a dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. 
 Possible KPIs include but not limited to:
 - Overall customer satisfaction
